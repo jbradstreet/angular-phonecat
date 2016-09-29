@@ -1,5 +1,8 @@
 # AngularJS Phone Catalog Tutorial Application
 
+## Note
+
+I am doing a quick review of this tutorial to brush up on my AngularJS skills. Since I haven't touched AngularJS in a while, I'm taking a look at this tutorial and will build another app shortly.
 
 ## Overview
 
@@ -189,7 +192,7 @@ it whenever you like.
 ### Running the Application during Development
 
 - Run `npm start`.
-- Navigate your browser to [http://localhost:8000/](http://localhost:8000/) to see the application 
+- Navigate your browser to [http://localhost:8000/](http://localhost:8000/) to see the application
 - running.
 
 ### Unit Testing
@@ -213,7 +216,7 @@ _Running the Application during Development_ section, above.
 - Serve the application with: `npm start`
 - In a separate terminal/command line window run the e2e tests: `npm run protractor`.
 - Protractor will execute the e2e test scripts against the web application itself. The project is
-  set up to run the tests on Chrome directly. If you want to run against other browsers, you must 
+  set up to run the tests on Chrome directly. If you want to run against other browsers, you must
   modify the configuration at `e2e-tests/protractor-conf.js`.
 
 
